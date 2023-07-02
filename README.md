@@ -1,2 +1,3 @@
-# ard_splicing
-This project aims to identify splicing changes in the adult reproductive diapause of C. elegans. 
+# README
+
+This is a repository for a project that aims to identify splicing changes in the adult reproductive diapause of C. elegans. 
